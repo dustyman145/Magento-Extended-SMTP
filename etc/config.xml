@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <system>
+            <smtp>
+                <set_return_path>0</set_return_path>
+                <return_path_email>email@domain.com</return_path_email>
+                <smtp_configuration>
+                    <enable>0</enable>
+                    <host>127.0.0.1</host>
+                    <port>25</port>
+                    <auth/>
+                    <username/>
+                    <password/>
+                    <protocol/>
+                </smtp_configuration>
+            </smtp>
+        </system>
+    </default>
+</config>

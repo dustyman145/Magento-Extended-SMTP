@@ -1,0 +1,21 @@
+None,None
+SSL,SSL
+TLS,TLS
+PLAIN,PLAIN
+Login,Login
+CRAM-MD5,CRAM-MD5
+From,From
+Specified,Specified
+No,No
+"Smtp Configuration","Smtp Configuration"
+"Manual Configuration","Manual Configuration"
+"Manually specify the mail server instead of using the default PHP mail configuration.","Manually specify the mail server instead of using the default PHP mail configuration."
+Host,Host
+"Support Hostname and IP Address.","Support Host name and IP Address."
+Port,Port
+"Default ports: 25, 465, or 587. Port 465 (SSL required), Port 587 (TLS required).","Default ports: 25, 465, or 587. Port 465 (SSL required), Port 587 (TLS required)."
+Authentication,Authentication
+Username,Username
+Password,Password
+Protocol,Protocol
+"The use of a security connections is higly recommended: SSL or TLS. Secure Socket Layer (SSL), Transport Layer Security (TLS).","The use of a security connections is higly recommended: SSL or TLS. Secure Socket Layer (SSL), Transport Layer Security (TLS)."
